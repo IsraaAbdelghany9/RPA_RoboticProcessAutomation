@@ -1,0 +1,14 @@
+﻿{
+  "Name": "The country you selecte…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "0ssZlNKSI0emdgFFOAmzFQ",
+  "Reference": "_PHtA6Bhh0aBZ8boLzfjaA/0ssZlNKSI0emdgFFOAmzFQ",
+  "ParentRef": "_PHtA6Bhh0aBZ8boLzfjaA/mICj2ohj5E-FxffnwY5PQA",
+  "Created": "2025-06-14T11:21:26.8544665Z",
+  "Updated": "2025-06-14T11:21:26.8544665Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
