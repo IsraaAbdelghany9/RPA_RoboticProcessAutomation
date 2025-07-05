@@ -1,0 +1,12 @@
+﻿{
+  "Name": "UiPath_Test_1.txt.txt - Notepad",
+  "Type": "App",
+  "Id": "cqy3E_miJUCzSqMhnyJlpw",
+  "Reference": "_PHtA6Bhh0aBZ8boLzfjaA/cqy3E_miJUCzSqMhnyJlpw",
+  "Created": "2025-06-14T10:08:55.1449267Z",
+  "Updated": "2025-06-14T10:08:55.1449267Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

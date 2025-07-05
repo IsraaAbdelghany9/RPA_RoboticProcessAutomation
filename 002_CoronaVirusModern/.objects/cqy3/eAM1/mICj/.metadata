@@ -1,0 +1,13 @@
+﻿{
+  "Name": "UiPath_Test_1.txt.txt - Notepad",
+  "Type": "Screen",
+  "Id": "mICj2ohj5E-FxffnwY5PQA",
+  "Reference": "_PHtA6Bhh0aBZ8boLzfjaA/mICj2ohj5E-FxffnwY5PQA",
+  "ParentRef": "_PHtA6Bhh0aBZ8boLzfjaA/eAM1wzOp6UiBllxphLB0dQ",
+  "Created": "2025-06-14T10:08:55.1982931Z",
+  "Updated": "2025-06-14T10:08:55.1982931Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
