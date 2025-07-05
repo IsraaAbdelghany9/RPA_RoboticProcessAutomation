@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Create UiPath Project",
+  "Type": "App",
+  "Id": "Lsp_FGmHtEaY_W-pIL25SA",
+  "Reference": "WyrSf2N7kk2nDhNaRbDZPQ/Lsp_FGmHtEaY_W-pIL25SA",
+  "Created": "2025-06-14T06:24:04.8216123Z",
+  "Updated": "2025-06-14T06:24:04.8216123Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
