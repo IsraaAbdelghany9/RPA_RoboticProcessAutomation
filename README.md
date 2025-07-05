@@ -5,7 +5,7 @@ This repository showcases a collection of RPA (Robotic Process Automation) proje
 
 ---
 
-## [ACME Project](https://github.com/IsraaAbdelghany9/RPA_RoboticProcessAutomation/tree/main/007_ACME_LaunchApp)
+## [007_ACME Project](https://github.com/IsraaAbdelghany9/RPA_RoboticProcessAutomation/tree/main/007_ACME_LaunchApp)
 ### 📄 Project Description
 
 This UiPath RPA project automates the process of navigating through paginated web pages, moving amoung all pages until no further pages are available.
